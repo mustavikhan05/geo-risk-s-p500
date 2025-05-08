@@ -1,0 +1,10 @@
+Event name,Time of Event
+Korean War Begins,06/23/1950
+Suez Canal Crisis,10/30/1956
+Cuban Missile Crisis,10/19/1962–10/27/1962
+JFK Assassinated,11/21/1963
+Arab Oil Embargo,10/16/1973–12/05/1973
+President Nixon Resigns,08/07/1974
+Iranian Hostage Crisis,11/02/1979–11/07/1979
+U.S.S.R. Invades Afghanistan,12/24/1979
+U.S. Invades Panama,12/15/1989 
